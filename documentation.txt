@@ -1,0 +1,18 @@
+A. Projenin Tanımı Amacı
+    Bir e ticaret sitesinin sepet kısmını simüle ederek
+    React'ın Component, Props, State (useState), LifeCycle (useEffect)
+    konularını pekiştireceğiz. İlave olarak farklı sayfalara yönlenemeyi
+    sağlayan react router dom kütüphanesini göreceğiz.
+
+B. Projenin Gerçeklenmesi
+    1. İhtiyaç duyulan kütüphaneler
+        -> axios (API iletişimi)
+        -> json-server (API içi (Fake API))
+        -> react-router-dom (navigation)
+        -> UI için bootstrap (CDN)
+        -> Icon için fontawesome (CDN)
+    2. Router'ın kurulması
+
+C. Ek Kaynaklar
+ -> https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+ -> https://medium.com/frontend-development-with-js/javascriptde-template-literals-nedir-e1355cd585c7
